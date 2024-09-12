@@ -1,10 +1,9 @@
-# Project
+# Projects
 
-### Fidelis O. Efomah
+## Fidelis O. Efomah
+
+### About
 ---
-
-##### About
------
 Skilled data professional with over a decade of experience in extracting valuable insights from complex datasets, crafting insightful reports, and developing data-driven solutions that drive business growth. Proficient in data analysis, visualization, and science, with expertise spanning:
 * Financial analysis and operational optimization
 *  intelligence and data reporting
